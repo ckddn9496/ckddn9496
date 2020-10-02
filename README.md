@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![ckddn9496's github stats](https://github-readme-stats.vercel.app/api?username=ckddn9496)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ckddn9496/ckddn9496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
